@@ -1,0 +1,46 @@
+# =====================================
+# Node / React (frontend)
+# =====================================
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.vite/
+frontend/.DS_Store
+
+# =====================================
+# Python / FastAPI (backend)
+# =====================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.env
+venv/
+env/
+.venv/
+
+# =====================================
+# Sistema / Editor / IDE
+# =====================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =====================================
+# Outros
+# =====================================
+# Arquivos de build temporários
+*.out
+*.bak
+*.tmp
+
+# Scripts e logs locais
+run.sh
+nohup.out
+
